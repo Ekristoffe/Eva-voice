@@ -14,3 +14,6 @@ Check the folder `C:\Windows\Speech_OneCore\Engines\TTS\en-US\` for files starti
 
 ## Addon
 Other mobile voices found in `C:\Windows\Speech_OneCore\Engines\TTS\en-US\` can be enabled by running the scipts `EnableAllWindowsVoice.ps1` from an admin PowerShell window. (You may need to open the file with a text editor and paste it in powershell)
+
+## Honorable Mention
+Big shoutout to this guy: [PessimistPrime (Aus)](https://www.reddit.com/r/EliteDangerous/comments/5d02vv/if_you_use_voiceattack_eddi_or_any_other/)
